@@ -122,7 +122,7 @@
     "ui": "workspace:*",
     "ui-patterns": "workspace:*",
     "use-debounce": "^7.0.1",
-    "uuid": "^9.0.1",
+    "uuid": "^14.0.0",
     "valtio": "^1.12.0",
     "vite-tsconfig-paths": "^4.3.2",
     "vitest": "^1.6.0",
@@ -176,7 +176,7 @@
     "graphql-ws": "5.14.1",
     "msw": "^2.3.0",
     "next-router-mock": "^0.9.13",
-    "postcss": "^8.4.31",
+    "postcss": "^8.5.10",
     "prettier": "3.2.4",
     "tailwindcss": "^3.4.1",
     "typescript": "~5.5.0"
